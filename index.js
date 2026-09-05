@@ -1,1 +1,1 @@
-console.log("My first repo");
+console.log("Made some changes to the index.js file");
